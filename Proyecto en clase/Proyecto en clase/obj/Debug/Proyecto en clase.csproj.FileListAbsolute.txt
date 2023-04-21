@@ -1,0 +1,11 @@
+C:\Users\20210315\source\repos\Proyecto en clase\Proyecto en clase\bin\Debug\Proyecto en clase.exe.config
+C:\Users\20210315\source\repos\Proyecto en clase\Proyecto en clase\bin\Debug\Proyecto en clase.exe
+C:\Users\20210315\source\repos\Proyecto en clase\Proyecto en clase\bin\Debug\Proyecto en clase.pdb
+C:\Users\20210315\source\repos\Proyecto en clase\Proyecto en clase\bin\Debug\LiteDB.dll
+C:\Users\20210315\source\repos\Proyecto en clase\Proyecto en clase\bin\Debug\LiteDB.xml
+C:\Users\20210315\source\repos\Proyecto en clase\Proyecto en clase\obj\Debug\Proyecto en clase.csproj.AssemblyReference.cache
+C:\Users\20210315\source\repos\Proyecto en clase\Proyecto en clase\obj\Debug\Proyecto en clase.csproj.SuggestedBindingRedirects.cache
+C:\Users\20210315\source\repos\Proyecto en clase\Proyecto en clase\obj\Debug\Proyecto en clase.csproj.CoreCompileInputs.cache
+C:\Users\20210315\source\repos\Proyecto en clase\Proyecto en clase\obj\Debug\Proyecto en clase.csproj.CopyComplete
+C:\Users\20210315\source\repos\Proyecto en clase\Proyecto en clase\obj\Debug\Proyecto en clase.exe
+C:\Users\20210315\source\repos\Proyecto en clase\Proyecto en clase\obj\Debug\Proyecto en clase.pdb
