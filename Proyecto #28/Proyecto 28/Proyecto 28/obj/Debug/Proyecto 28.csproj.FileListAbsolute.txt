@@ -1,0 +1,11 @@
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #28\Proyecto 28\Proyecto 28\bin\Debug\Proyecto 28.exe.config
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #28\Proyecto 28\Proyecto 28\bin\Debug\Proyecto 28.exe
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #28\Proyecto 28\Proyecto 28\bin\Debug\Proyecto 28.pdb
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #28\Proyecto 28\Proyecto 28\obj\Debug\Proyecto 28.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #28\Proyecto 28\Proyecto 28\obj\Debug\Proyecto 28.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #28\Proyecto 28\Proyecto 28\obj\Debug\Proyecto_28.Form1.resources
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #28\Proyecto 28\Proyecto 28\obj\Debug\Proyecto_28.Properties.Resources.resources
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #28\Proyecto 28\Proyecto 28\obj\Debug\Proyecto 28.csproj.GenerateResource.cache
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #28\Proyecto 28\Proyecto 28\obj\Debug\Proyecto 28.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #28\Proyecto 28\Proyecto 28\obj\Debug\Proyecto 28.exe
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #28\Proyecto 28\Proyecto 28\obj\Debug\Proyecto 28.pdb

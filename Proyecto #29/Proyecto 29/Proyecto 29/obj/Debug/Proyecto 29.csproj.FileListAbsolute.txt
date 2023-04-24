@@ -1,0 +1,11 @@
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #29\Proyecto 29\Proyecto 29\bin\Debug\Proyecto 29.exe.config
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #29\Proyecto 29\Proyecto 29\bin\Debug\Proyecto 29.exe
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #29\Proyecto 29\Proyecto 29\bin\Debug\Proyecto 29.pdb
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #29\Proyecto 29\Proyecto 29\obj\Debug\Proyecto 29.csproj.AssemblyReference.cache
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #29\Proyecto 29\Proyecto 29\obj\Debug\Proyecto 29.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #29\Proyecto 29\Proyecto 29\obj\Debug\Proyecto_29.Form1.resources
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #29\Proyecto 29\Proyecto 29\obj\Debug\Proyecto_29.Properties.Resources.resources
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #29\Proyecto 29\Proyecto 29\obj\Debug\Proyecto 29.csproj.GenerateResource.cache
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #29\Proyecto 29\Proyecto 29\obj\Debug\Proyecto 29.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #29\Proyecto 29\Proyecto 29\obj\Debug\Proyecto 29.exe
+C:\Users\Elizabeth\Desktop\Proyectos en C#\Proyecto #29\Proyecto 29\Proyecto 29\obj\Debug\Proyecto 29.pdb
